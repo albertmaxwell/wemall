@@ -311,6 +311,7 @@ public class GoodsViewAction {
     }
 
     /**
+     * sku
      * 商品分类展示页
      * @param request
      * @param response
